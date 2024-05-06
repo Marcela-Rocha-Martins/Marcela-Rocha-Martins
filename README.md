@@ -10,7 +10,8 @@
       <p align="left">I'm a Brazilian frontend developer based in Berlin with 10 years of experience in communications and marketing</p>
       <h3>💻 Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,bootstrap,tailwind,nodejs,express,vue,git,github,mongodb,firebase,react,nextjs&theme=dark&perline=8" alt="Tech Stack Icons"><br><br>
-      <p style="text-align: justify;">My journey started with a degree in communication, and later I pursued an MBA in Business Intelligence and Digital Marketing, where I honed my skills in data-driven decision-making. With a longstanding interest in technology—dating back to when I was 16 and creating blog templates with CSS and HTML—I decided to fully transition into the tech industry last year. I enrolled in an intensive full-stack bootcamp, focusing on the MERN stack for both client and server-side development. Since then, I've dedicated myself to enhancing my frontend expertise, delving into technologies like React, Next.js, and Tailwind CSS. Continuously improving my JavaScript proficiency, I enjoy tackling challenges through algorithmic problem-solving.</p>
+      <p style="text-align: justify;">After spending 10 years in communication and marketing, I decided it was time for a change and transitioned to the tech world—a shift I had been considering for a while.<br><br>
+ So, I dove into an intensive full-stack web development bootcamp, concentrating on the MERN stack. Since then, I've been focusing on frontend development, digging into React, Next.js, and Tailwind CSS, all while continuing to improve my JavaScript skills.</p>
     </td>
   </tr>
 </table>
