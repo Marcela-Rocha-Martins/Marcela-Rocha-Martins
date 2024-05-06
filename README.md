@@ -17,9 +17,9 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <p align="center">
-      <a href="mailto:marcelarochamartins@gmail.com"><img src="https://img.shields.io/badge/-📧%20Contact%20Me-blue" alt="Contact Me"></a>
-      <a href="https://marcelarochamartins.vercel.app/"><img src="https://img.shields.io/badge/-📂%20Portfolio-orange" alt="Portfolio"></a>
-      <a href="https://drive.google.com/file/d/13_608t_Q0AAFi8CQYZe_10ewSU1T76X8/view?usp=drive_link"><img src="https://img.shields.io/badge/-📄%20Resume-green" alt="Resume"></a>
+      <a href="mailto:marcelarochamartins@gmail.com"><img src="https://img.shields.io/badge/-📧%20Contact%20Me-blue" alt=" Contact Me"></a>
+      <a href="https://marcelarochamartins.vercel.app/"><img src="https://img.shields.io/badge/-📂%20Portfolio-orange" alt=" Portfolio"></a>
+      <a href="https://drive.google.com/file/d/13_608t_Q0AAFi8CQYZe_10ewSU1T76X8/view?usp=sharing"><img src="https://img.shields.io/badge/-📄%20Resume-green" alt=" Resume"></a>
     </p>
   </div>
   <div>
