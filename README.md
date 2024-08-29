@@ -7,10 +7,19 @@
       <img src="https://media.giphy.com/media/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF from Giphy">
     </td>
     <td width="60%">
-      <p align="left">I'm a Brazilian frontend developer based in Berlin with 10 years of experience in communications and marketing</p>
       <h3>💻 Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,bootstrap,tailwind,nodejs,express,vue,git,github,mongodb,firebase,react,nextjs&theme=dark&perline=8" alt="Tech Stack Icons"><br><br>
-      <p style="text-align: justify;">I recently shifted my career to web development after a decade in marketing and content writing. I completed Ironhack's full-stack web development bootcamp, where I learned to work with technologies such as MongoDB, Express.js, React, and Node.js (MERN). I primarily work with React using TypeScript, and am specializing in server-side rendering with Next.js, while also experimenting with CSS frameworks like Tailwind. Because of my background in communication, I place great value on creating user-focused and highly functional web applications.</p>
+      <p style="text-align: justify;">Hello there! 
+
+I am an aspiring Product Manager with passion for data and technology. I have over 10 years of experience in Marketing and Content roles, ranging from journalist to team manager, brand strategist, content marketing specialist, and more. I've always enjoyed tackling problems by optimizing processes and streamlining efforts, while making data-driven decisions, including the most creative ones. I believe these have been the core principles behind the various roles I’ve taken on.
+
+Currently, I’m diving into the complete Product course track from PM3, which includes almost 200 hours of content designed to enhance my knowledge in data, performance, and marketing within the product space. I’m also a web development enthusiast and recently completed the Ironhack Bootcamp in Berlin, where I learned full-stack programming (MERN Stack) – and even won an award for the best project in my cohort for developing a web app with AI integration.
+
+Beyond technical skills, I consider myself someone who integrates well with diverse and multidisciplinary teams. I believe in using empathetic communication as a key tool for creating better work environments and genuinely believe that behind every badge, there’s a person who can teach me something new.
+
+Main Skills: 
+
+◆ Product Management, Product Discovery, Product Analytics, Product Growth, Product Marketing ◆ Content Marketing ◆ Google Analytics and Google Ads ◆ Social Analytics and Social Ads ◆ SEO, SEM, PPC ◆ Copywriting ◆ MERN Stack: MongoDB, Express.js, React.js, React Native, Node.js ◆ Additional programming skills: JavaScript, TypeScript, HTML5, CSS, Next.js, REST API, Axios, Python, SQL</p>
     </td>
   </tr>
 </table>
